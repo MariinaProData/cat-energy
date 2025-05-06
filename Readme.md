@@ -1,6 +1,6 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Марина Прокопьева](https://up.htmlacademy.ru/adaptive-individual/2/user/2406519).
+* Студент: [Марина Прокопьева](https://htmlacademy.ru/profile/id2406519).
 * Наставник: [Андрей Ефимов](https://github.com/efiand).
 
 ---
